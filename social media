@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>My Social Media Handles</title></head>
+
+<body>
+
+	<header>
+
+		<h1>My Social Media Handles</h1>
+
+	</header>
+
+	<main>
+
+		<ul>
+
+			
+      <li><a href="https://www.twitter.com/mot1vat1on_hub/">Twitter</a></li>
+
+			<li><a href="https://www.instagram.com/zakiulhassa_143">Instagram</a></li>
+
+      <li><a href="https://www.youtube.com/@zakiyt51/">YouTube</a></li>
+			
+
+
+		</ul>
+
+	</main>
+
+	<footer>
+
+		<p>&copy; 2023 My Islamic Blog. All rights reserved.</p>
+
+	</footer>
+
+</body>
+
+</html>
