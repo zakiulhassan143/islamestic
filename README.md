@@ -1,61 +1,139 @@
-<!DOCTYPE html>
+
 
 <html>
 
 <head>
 
-	<title>My Islamic Blog</title></head>
+	<title>Islamic Blogs</title></head>
 
 <body>
 
-	<header>
+	<h1>Welcome to Islamic Blogs</h1>
 
-		<h1>Welcome to My Islamic Blog!</h1>
+	<p>Check out our latest blog posts:</p>
 
-		<nav>
+	<ul>
 
-			<ul>
+		<li><a href="#">Blog Post 1</a></li>
 
-				<li><a href="#">Home</a></li>
+		<li><a href="#">Blog Post 2</a></li>
 
-				<li><a href="#">Blog</a></li>
+		<li><a href="#">Blog Post 3</a></li>
 
-				<li><a href="#">Videos</a></li>
+	</ul>
 
-				<li><a href="#">Audios</a></li>
+	<p>Watch our latest videos:</p>
 
-				<li><a href="#">Pictures</a></li>
+	<ul>
 
-				<li><a href="#">Social Media</a></li>
+		<li><a href="#">Video 1</a></li>
 
-			</ul>
+		<li><a href="#">Video 2</a></li>
 
-		</nav>
+		<li><a href="#">Video 3</a></li>
 
-	</header>
+	</ul>
 
-	<main>
+	<p>Listen to our latest audios:</p>
 
-		<p>Here you can find articles and resources about Islam.</p>
+	<ul>
 
-		<button>Add New Blog Post</button>
+		<li><a href="#">Audio 1</a></li>
 
-		<button>Add New Video</button>
+		<li><a href="#">Audio 2</a></li>
 
-		<button>Add New Audio</button>
+		<li><a href="#">Audio 3</a></li>
 
-		<button>Add New Picture</button>
+	</ul>
 
-		<button>Social Media Handles</button>
+	<p>Check out our latest pictures:</p>
 
-	</main>
+	<ul>
 
-	<footer>
+		<li><a href="#">Picture 1</a></li>
 
-		<p>&copy; 2023 My Islamic Blog. All rights reserved.</p>
+		<li><a href="#">Picture 2</a></li>
 
-	</footer>
+		<li><a href="#">Picture 3</a></li>
+
+	</ul>
+
+	<p>Follow us on social media:</p>
+
+	<ul>
+
+		<li><a href="#">Twitter</a></li>
+
+		<li><a href="#">Facebook</a></li>
+
+		<li><a href="#">Instagram</a></li>
+
+	</ul>
+
+	<p>Want to add your own content? Click the button below:</p>
+
+	<button>Add Content</button>
 
 </body>
 
-</html>
+
+
+
+
+
+
+	
+
+
+
+	
+
+		
+
+		
+
+			
+
+				
+
+				
+
+				
+
+				
+
+			
+
+				
+
+			
+
+		
+
+	
+
+	
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+	
+
+	
+
+		
+
+	
+
+
+
+
